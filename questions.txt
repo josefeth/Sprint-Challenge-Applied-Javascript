@@ -1,0 +1,14 @@
+1. What is the DOM?
+Document object model. 
+
+2. What is an event?
+An event is when javascript changes the website your on 
+
+3. What is an event listener?
+When the javascript code is waiting for a change
+
+4. Why would we convert a NodeList into an Array?
+Tagrets a part of the array at once
+
+5. What is a component?
+Something you can use over and over
